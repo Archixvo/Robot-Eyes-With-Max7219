@@ -2,11 +2,8 @@
   
 # ROBOT EYES
 
-[![GitHub stars](https://img.shields.io/github/stars/cifertech/nrfbox.svg)](https://github.com/Archixvo/Robot-Eyes-With-Max7219)
-[![GitHub forks](https://img.shields.io/github/forks/cifertech/nrfbox.svg)](https://github.com/cifertech/nrfbox/network)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-yellow.svg)](https://www.instagram.com/archixvo)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red.svg)](https://www.youtube.com/user/your_youtube_account)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red.svg)](https://www.youtube.com/user/archixvo)
 [![Website](https://img.shields.io/badge/Website-Visit%20Us-blue.svg)](https://www.yourwebsite.com)
 
 </div>
