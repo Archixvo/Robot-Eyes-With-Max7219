@@ -28,8 +28,8 @@ Example image that I took from community robotshop
 - [Equipment](#equipment)
 - [Schematic](#schematic)
 - [Installation](#installation)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+- [License](#license)
+- [Contact](#contact)
 
 ## 🛠️ Equipment
 
